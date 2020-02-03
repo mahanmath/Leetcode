@@ -1,6 +1,4 @@
 ## Leetcode
-Some of my favorite problems in Leetcode and my solutions in Python
-
 | # | Title | Difficulty :straight_ruler:| Solution :white_check_mark:|
 |---| ----- | ---------- | --------|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/126.%20Word%20Ladder%20II.py)
