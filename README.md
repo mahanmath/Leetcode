@@ -14,7 +14,7 @@ Some of my favorite problems in Leetcode and my solutions in Python
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/458.%20Poor%20Pigs.py)
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/765.%20Couples%20Holding%20Hands.py)
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/239.%20Sliding%20Window%20Maximum.py)
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/8.%20String%20to%20Integer%20(atoi).py)
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|Medium|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/8.%20String%20to%20Integer%20(atoi).py)
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|Medium|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py)
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|Medium|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/384.%20Shuffle%20an%20Array.py)
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|Medium|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/593.%20Valid%20Square.py)
