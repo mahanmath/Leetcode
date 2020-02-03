@@ -1,7 +1,7 @@
 ## Leetcode
 Some of my favorite problems in Leetcode and my solutions in Python
 
-| # | Title | Difficulty | Solution|
+| # | Title | Difficulty :straight_ruler:| Solution :white_check_mark:|
 |---| ----- | ---------- | --------|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/126.%20Word%20Ladder%20II.py)
 |805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/805.%20Split%20Array%20With%20Same%20Average.py)
