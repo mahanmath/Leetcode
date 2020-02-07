@@ -7,6 +7,7 @@
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/41.%20First%20Missing%20Positive.py)
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.py)
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/128.%20Longest%20Consecutive%20Sequence.py)
+|862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.py)
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/668.%20Kth%20Smallest%20Number%20in%20Multiplication%20Table.py)
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/42.%20Trapping%20Rain%20Water.py)
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/458.%20Poor%20Pigs.py)
