@@ -14,6 +14,7 @@
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/765.%20Couples%20Holding%20Hands.py)
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|Hard|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/239.%20Sliding%20Window%20Maximum.py)
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/347.%20Top%20K%20Frequent%20Elements.py)
+|785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|Medium|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/Is%20Graph%20Bipartite%3F.py)
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|Medium|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/54.%20Spiral%20Matrix.py)
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Medium|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/150.%20Evaluate%20Reverse%20Polish%20Notation.py)
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|Medium|[Solution](https://github.com/mahanmath/Leetcode/blob/master/Algorithms/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.py)
